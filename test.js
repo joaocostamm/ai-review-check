@@ -1,5 +1,5 @@
-console.log('test.js')
-coconuy()
+console.log('test.js');
+coconuy();
 
 var x = 10
 var y = 5
